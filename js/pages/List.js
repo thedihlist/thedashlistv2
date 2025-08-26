@@ -123,6 +123,12 @@ export default {
                     <p>
                         Once a level falls past 150, we will ignore all records or completions of the level.
                     </p>
+                    <p>
+                        Beating a tdl challenge before anyone will put you on the completionist list
+                    </p>
+                    <p>
+                        Completionists: Null_Ahnung
+                    </p>
                 </div>
             </div>
         </main>
