@@ -1,1 +1,18 @@
-
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": ["Sillow"],
+    "verifier": "Sillow",
+    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+    "percentToQualify": "100",
+    "password": "No Password",
+    "records": [
+        {
+            "user": "CrimsonGMD",
+            "link": "https://youtu.be/PoDFKFMhuZg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
